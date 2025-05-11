@@ -5,7 +5,7 @@
 Welcome to my personal portfolio website! This site highlights my projects, technical skills, and contact details. Built with HTML, CSS, and JavaScript, it's a reflection of my journey as a Computer Science student and aspiring web developer.
 
 ## 🌐 Live Preview
-[Visit My Portfolio](https://gitmit02.github.io)
+[Visit My Portfolio](https://github.com/gitmit02/My-portfolio/))
 
 ## 🚀 Projects Showcased
 - **🎵 Music App**: A sleek music streaming app with curated playlists and smooth UI.
