@@ -2,7 +2,7 @@
 
 # Mitali - Portfolio Website
 
-Welcome to my personal portfolio website! This site highlights my projects, technical skills, and contact details. Built with HTML, CSS, and JavaScript, it's a reflection of my journey as a Computer Science student and aspiring web developer.
+<p>Welcome to my personal portfolio website! This site highlights my projects, technical skills, and contact details. Built with HTML, CSS, and JavaScript, it's a reflection of my journey as a Computer Science student and aspiring web developer.</p>
 
 ## 🌐 Live Preview
 [Visit My Portfolio](https://github.com/gitmit02/My-portfolio/))
